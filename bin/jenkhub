@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'jenkhub/config'
+require 'jenkhub/command'
+
+Jenkhub::Command.execute(*ARGV)

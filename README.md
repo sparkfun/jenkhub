@@ -11,7 +11,7 @@ Keeps a log of all the current SHA files under "$HOME/.jenkhub"
 ```javascript
 {
   "master": "123abccurrenthash",
-  "branch": '345latestpushedhash"
+  "branch": "345latestpushedhash"
 }
 ```
 
